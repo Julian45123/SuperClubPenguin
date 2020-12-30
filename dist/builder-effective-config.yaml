@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.superclubpenguin.client
+productName: SuperClubPenguin
+asar: false
+win:
+  publish: github
+electronVersion: 6.1.7

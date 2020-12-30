@@ -1,0 +1,12 @@
+version: 1.0.1
+files:
+  - url: CPPSFlashEmulator-1.0.1-mac.zip
+    sha512: NH1d1xscN1FHBQXlRO1VZRMoy908133kKb6dQ5V0o8adiPmfL2kiGDM2NQb6KZIIAcWTx9+hKQrXaUj/4r8LkA==
+    size: 100898191
+    blockMapSize: 105702
+  - url: CPPSFlashEmulator-1.0.1.dmg
+    sha512: pRhBjWWCRohABRrT7kJs43BtI5KiaTeX3X1PCRvUJcC7s3sMFibLzQsEJQM6QZyI/Fiozk0UqUm5xE4k0OrMBw==
+    size: 103829530
+path: CPPSFlashEmulator-1.0.1-mac.zip
+sha512: NH1d1xscN1FHBQXlRO1VZRMoy908133kKb6dQ5V0o8adiPmfL2kiGDM2NQb6KZIIAcWTx9+hKQrXaUj/4r8LkA==
+releaseDate: '2020-11-18T19:49:36.547Z'
