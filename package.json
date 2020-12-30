@@ -7,7 +7,7 @@
     "start": "electron .",
     "build": "electron-builder build --win --ia32 --publish onTagOrDraft",
     "build-mac": "electron-builder build --mac --ia32 --publish onTagOrDraft",
-	"build-linux": "electron-builder build --linux --ia32 --publish onTagOrDraft",
+    "build-linux": "electron-builder build --linux --ia32 --publish onTagOrDraft",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
   "bugs": {
